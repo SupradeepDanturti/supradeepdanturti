@@ -1,5 +1,6 @@
 **Hi** 👋
- - **ABOUT ME:**
+
+**ABOUT ME:**
 
  - Being an aspiring researcher in the field of AI and Data Science, I always love finding patterns and connecting dots: be it ideas from different industries, people from different backgrounds and teams, or applications from different domains. Finding creative solutions to problems is something I have always enjoyed. I am inclined towards pursuing a career in field of AI and Data Science.
 
