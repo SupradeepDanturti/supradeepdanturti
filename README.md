@@ -7,12 +7,11 @@
 
  - Please feel free to connect with me anytime!!
 
- - Reachme on LinkedIn - [in/supradeepdanturti](https://www.linkedin.com/in/supradeepdanturti/)
- - 
-**TECHNICAL SKILLS:**
+ - Reach me on LinkedIn - [in/supradeepdanturti](https://www.linkedin.com/in/supradeepdanturti/)
 
+**TECHNICAL SKILLS:**
 *Programming languages: Proficient* in Python, Java and SQL.
-*Development tools and Frameworks:* Machine Learning & Deep Learning, NLP, Computer Vision, Seaborn, Pytorch, Scikit-learn, NumPy, Pandas, Matplotlib, Keras and TensorFlow, Kibana, Kubernetes
+*Development tools and Frameworks:* Machine Learning & Deep Learning, NLP, Computer Vision, Pytorch, Keras, TensorFlow, Scikit-learn, NumPy, Pandas, Matplotlib, Seaborn,  Kibana, Kubernetes.
 
 **PATENT:**
 
